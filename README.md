@@ -71,4 +71,4 @@ You can learn more about parseFloat [Here](https://developer.mozilla.org/en-US/d
 The types in Javascript are getting changed by arithmetic operators too. For the + operator the priority is on string for the others: -, *, / the priority is on number.
 You can learn more about them [Here](https://www.freecodecamp.org/news/js-type-coercion-explained-27ba3d9a2839/).
 
-If you want to learn good programming follow [Vrezh Oganisyan](https://oganisyan.com/).
+If you learn programming I recommend you to follow [Vrezh Oganisyan](https://oganisyan.com/).
